@@ -150,7 +150,6 @@ return [
 		 */
 		'Intervention\Image\ImageServiceProvider',
 		'AdamWathan\BootForms\BootFormsServiceProvider',
-		'Acacha\AdminLTETemplateLaravel\app\Providers\AdminLTETemplateServiceProvider',
 
 		// Dev
 		// 'Barryvdh\Debugbar\ServiceProvider',

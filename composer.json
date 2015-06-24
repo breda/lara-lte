@@ -5,11 +5,11 @@
 	"license": "MIT",
 	"type": "project",
 	"require": {
-		"laravel/framework": "5.0.*",
+		"laravel/framework": "5.1.*",
 		"barryvdh/laravel-debugbar": "^2.0",
 		"intervention/image": "^2.2",
 		"adamwathan/bootforms": "^0.6.0",
-		"fzaninotto/faker": "^1.5",
+		"fzaninotto/faker": "^1.5"
 	},
 	"require-dev": {
 		"phpunit/phpunit": "~4.0",
